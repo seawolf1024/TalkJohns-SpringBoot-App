@@ -38,20 +38,23 @@ Frontend
 
 ## Features
 
-1. Basic functions:
+Basic functions:
 
-   Registration, login, exit, permissions
+- Registration, login, exit, permissions
 
-2. Core functions:
+Core functions:
 
-  Home page, posts, comments, messages, sensitive word filtering
-3. Performance:
+- Home page, posts, comments, messages, sensitive word filtering
 
-  Like, follow, cache, statistics
-4. Notification: 
+Performance:
 
-   System notification
-5. Others: 
+- Like, follow, cache, statistics
 
-   Server cache
+Notification: 
+
+- System notification
+
+Others: 
+
+- Server cache
 
