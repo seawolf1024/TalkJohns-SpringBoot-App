@@ -1,46 +1,57 @@
-# ProductSearch: Android App
+# TalkJohns - SpringBoot App
 
 ## Description
 
-An android App that provides eBay product search and wishlist management.
+An Online Forum that provides multiple functions(see below).
 
 ## Technologies Used
 
-- **Front-end:**
-  - Android Studio
-  - Java
-  - Picasso
-  - Volley
-  - Glide
-  - CircularScoreView
-- **Backend:**
-  - Node.js
-- **Database:**
-  - MongoDB
-- **APIs:**
-  - eBay API
-  - Google Images API
-  - Android IP API
-  - Google Maps API
-- **UI:**
-  - Material Design Icons
+Basic features, posting, commenting
+
+- SpringBoot
+- MySQL + MyBatis
+- Sprint transaction
+
+Login, register, permissions
+
+- Spring Email
+
+- Interceptor
+
+Performance: likes, follow, cache
+
+- Redis
+
+System notification:
+
+- Kafka
+
+Others
+
+- Quartz
+- Caffeine
+
+Frontend
+
+- Thymeleaf
+- Bootstrap
 
 ## Features
 
-1. **Advanced Search Tab:**
-   - Keywords, category, condition, shipping options, distance.
-2. **Search Results Display:**
-   - Visually appealing cards presenting search results.
-3. **Product Details:**
-   - Basic details, shipping info, Google images, similar products.
-4. **Product Sharing:**
-   - Share product details via links.
-5. **Wishlist:**
-   - Add/remove products to/from wishlist.
-6. **Cloud Integration:**
-   - Save personal wishlist to the cloud.
-7. **UI Design:**
-   - Good-looking Android app with a focus on UI and page design.
+1. Basic functions:
 
-## Screenshots
+   Registration, login, exit, permissions
+
+2. Core functions:
+
+  Home page, posts, comments, messages, sensitive word filtering
+3. Performance:
+
+  Like, follow, cache, statistics
+4. Notification: 
+
+   System notification
+5. Others: 
+
+   Server cache
 
