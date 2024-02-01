@@ -2,7 +2,7 @@
 
 ## Description
 
-An Online Forum that provides multiple functions(see below).
+An Online Forum that provides multiple functions(see below). Adapted from NowCoder. 
 
 ## Technologies Used
 
